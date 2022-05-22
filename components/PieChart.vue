@@ -20,4 +20,4 @@ export default {
     new Chart(ctx, this.pieChartData);
   },
 };
-</script> 
+</script>
